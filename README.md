@@ -26,7 +26,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 # PROGRAM:
-website.html(front page)
+website.html(Home page)
 ```
 <HTML>
     <HEAD>
@@ -225,7 +225,7 @@ web1.html(menu page)
         </BODY>
 </HTML>
 ```
-web2.html(ADMINISTRATION page)
+web2.html(Administration page)
 ```
 <HTML>
     <HEAD>
@@ -311,7 +311,7 @@ web2.html(ADMINISTRATION page)
     </BODY>
 </HTML>
 ```
-web3.html(CONTACT US page)
+web3.html(Contact us page)
 ```
 <HTML>
     <HEAD>
@@ -377,9 +377,13 @@ web3.html(CONTACT US page)
 ```
 
 # OUTPUT:
+Home page
 ![Screenshot (219)](https://github.com/user-attachments/assets/fc7443cc-73ce-4cf7-82af-4a67d0bbb5fe)
+Menu page
 ![screencapture-file-C-Users-admin-Desktop-HTML-STARTING-POINT-WEB1-HTML-2024-12-11-13_14_21](https://github.com/user-attachments/assets/e7e97381-3a0b-4bfd-9dcb-1f050902d1fc)
+Administration page
 ![screencapture-file-C-Users-admin-Desktop-HTML-STARTING-POINT-WEB2-HTML-2024-12-11-13_18_42](https://github.com/user-attachments/assets/4df4e150-0d4e-47ec-a383-6b5b0bad8927)
+Contact us page
 ![screencapture-file-C-Users-admin-Desktop-HTML-STARTING-POINT-WEB3-HTML-2024-12-11-14_14_20](https://github.com/user-attachments/assets/77e737b4-5301-4ee7-898b-5695ae325116)
 
 # RESULT:
